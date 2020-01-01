@@ -1,5 +1,7 @@
 # wholesome-doggos
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Blunderchips/wholesome-doggos.svg)](https://greenkeeper.io/)
+
 > We could all use some more doggos in our lives.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
